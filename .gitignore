@@ -1,3 +1,6 @@
+# Ignore the data folder
+brain-tumor-mri-dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
